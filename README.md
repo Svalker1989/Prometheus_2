@@ -13,3 +13,5 @@
 
 PS
 Файл сервиса prometheus
+https://github.com/Svalker1989/hw-05/blob/main/prometheus.service
+команда --web.enable-lifecycle используется для перезапуска prometheus с помощью curl -X POST 192.168.0.162:9090/-/reload
