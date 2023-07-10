@@ -1,6 +1,7 @@
 # Домашнее задание к занятию "`Prometheus. Часть 2`" - `Стрекозов Владимир`
 ---
 ### Задание 1
+
 ![alt text](https://github.com/Svalker1989/hw-05/blob/main/Z1.PNG)
 ### Задание 2
 ![alt text](https://github.com/Svalker1989/hw-05/blob/main/Z1.PNG)
@@ -10,3 +11,7 @@
 ![alt text](https://github.com/Svalker1989/hw-05/blob/main/Z3_2.PNG)
 ### Задание 4
 ![alt text](https://github.com/Svalker1989/hw-05/blob/main/Z4.PNG)
+
+# PS
+## [Файл сервиса prometheus](https://github.com/Svalker1989/hw-05/blob/main/prometheus.service)
+## Команда --web.enable-lifecycle используется для перезапуска prometheus с помощью curl -X POST 192.168.0.162:9090/-/reload
