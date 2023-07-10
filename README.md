@@ -10,3 +10,6 @@
 ![alt text](https://github.com/Svalker1989/hw-05/blob/main/Z3_2.PNG)
 ### Задание 4
 ![alt text](https://github.com/Svalker1989/hw-05/blob/main/Z4.PNG)
+
+PS
+Файл сервиса prometheus
