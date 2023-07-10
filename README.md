@@ -1,6 +1,7 @@
 # Домашнее задание к занятию "`Prometheus. Часть 2`" - `Стрекозов Владимир`
 ---
 ### Задание 1
+
 ![alt text](https://github.com/Svalker1989/hw-05/blob/main/Z1.PNG)
 ### Задание 2
 ![alt text](https://github.com/Svalker1989/hw-05/blob/main/Z1.PNG)
