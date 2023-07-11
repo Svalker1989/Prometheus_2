@@ -3,8 +3,7 @@
 ### Задание 1 
 #### Погасите node exporter, стоящий на мониторинге, и прикрепите скриншот раздела оповещений Prometheus, где оповещение будет в статусе Pending
 #### {Файл с настройками уведомления](https://github.com/Svalker1989/hw-05/blob/main/alertmanager_notification_file.yml)
-     Результат добавления уведомления в prometheus
-![alt text](https://github.com/Svalker1989/hw-05/blob/main/Z1.PNG)
+![Результат добавления уведомления в prometheus](https://github.com/Svalker1989/hw-05/blob/main/Z1.PNG)
 ### Задание 2
 #### Прикрепите скриншот Alerts из Prometheus, где правило оповещения будет в статусе Fireing, и скриншот из Alertmanager, где будет видно действующее правило оповещения
 #### Правило оповещения в статусе Fireing
